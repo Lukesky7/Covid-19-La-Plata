@@ -1,14 +1,15 @@
 # Covid-19-ciudad de La-Plata
 
-```{r Paquetes}
-library(tidyverse)
-library(dplyr)
-library(plotly)
-library(hrbrthemes)
-library(htmlwidgets)
-library(viridisLite)
-library(viridis)
-library(ggthemes)
+Paquetes utilizados
+
+- library(tidyverse)
+- library(dplyr)
+- library(plotly)
+- library(hrbrthemes)
+- library(htmlwidgets)
+- library(viridisLite)
+- library(viridis)
+- library(ggthemes)
 ```
 
 Covid-19 Buenos Aires, La Plata desde fines Junio
