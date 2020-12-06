@@ -2,14 +2,14 @@
 
 Paquetes utilizados
 
-- library(tidyverse)
-- library(dplyr)
-- library(plotly)
-- library(hrbrthemes)
-- library(htmlwidgets)
-- library(viridisLite)
-- library(viridis)
-- library(ggthemes)
+- tidyverse
+- dplyr
+- plotly
+- hrbrthemes
+- htmlwidgets
+- viridisLite
+- viridis
+- ggthemes
 ```
 
 Covid-19 Buenos Aires, La Plata desde fines Junio
