@@ -3,7 +3,6 @@
 Paquetes utilizados
 
 - tidyverse
-- dplyr
 - plotly
 - hrbrthemes
 - htmlwidgets
