@@ -1,4 +1,4 @@
-# Covid-19-ciudad de La-Plata
+# Análisis del Covid-19-ciudad de La-Plata con lenguaje R
 
 Paquetes utilizados
 
